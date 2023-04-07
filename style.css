@@ -32,5 +32,12 @@ a {
 img {
     width: 600px;
     height: auto;
-    justify-self: center;
+}
+
+.Ingredients-list {
+    font-size: 20px;
+}
+
+.Directions-list {
+    font-size: 20px;
 }
